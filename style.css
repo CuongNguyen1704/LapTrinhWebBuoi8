@@ -1,0 +1,94 @@
+.back{
+    width: 100%;
+    height: 85px;
+    background-color: #f36621;
+}
+.image{
+    width: 40px 20px;
+    height: 50px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 18px;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #f7941c;
+}
+.header-banner ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+   
+    
+}
+.header-banner{
+    
+    display: flex;
+   
+   
+
+    
+}
+
+
+.header-banner ul li{
+    
+    margin: 10px;
+    height: 50px;
+}
+.header-banner ul li a{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+.item-heading{
+    text-align: center;
+    color: #f36621;
+    font-size: 40px;
+    
+}
+.navv{
+    width: 100%;
+    height:400px ;
+    /* background-color: rgb(240, 244, 248); */
+    padding-top: 30px;
+    margin-top: -28px;
+    background-image:linear-gradient(0,rgba(254, 254, 245, 0.9),rgba(254,254,245,0.9)), url(https://hlhpn.bacgiang.gov.vn/documents/20181/17918388/1693973110289_3.jpg/2b5a6ce8-d224-459a-b69c-0407cfff99e2?t=1693973110290);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+h3.item{
+    text-align: center;
+    font-size: 30px;
+    color:darkblue ;
+    padding-top: -100px;
+}
+.bot1{
+    width: 100px;
+    height: 30px;
+
+  
+    margin: auto;
+}
+.hi{
+    background-color: #f36621;
+    color: aliceblue;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.header-banner ul li:hover{
+    background-color: bisque;
+}
+.header-banner ul li  a{
+    color: blue;
+}
+.pduoi{
+    width: 1800px;
+    margin: 150px auto;
+    background-color: black;
+}
